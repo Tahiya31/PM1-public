@@ -48,7 +48,7 @@ average: 99.5
 ```
 
 ## Problem 4 
-Perform addition operation on complex numbers using classes and objects. The program should ask for real and imaginary part of two complex numbers, and display the real and imaginary parts of their sum.
+Perform addition operation on complex numbers using classes and objects. The program should ask for real and imaginary part of two complex numbers, and display the real and imaginary parts of their sum.  Feel free to use any c/c++ library to parse the input string (such as atof() or strtok()).
 
 ```
 first number: 5 + 5j
