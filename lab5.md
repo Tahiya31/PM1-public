@@ -37,10 +37,10 @@ PROMPT:
 ## Problem 3
 Write a c++ class called 'student' with
 
-Data members: name(char type), grades (double array)
+Data members: name(char type or string), grades (double array)
 
 The program asks the user to enter name and all grades one at a time until they enter -1. Then mean() calculates the mean note and disp() displays name and total mean of all grades  screen in different lines.
-Note:  The array can grow in size if the user continues entering numbers.  Use malloc(), realloc() and free() to allocate more memory as needed.
+Note:  The array can grow in size if the user continues entering numbers.  Use malloc(), realloc() and free() to allocate more memory as needed.  Also, you may use the string type from the string header file (#include <sttring>).
 
 ```
 Student name: Jorge Ortiz
