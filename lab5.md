@@ -21,8 +21,11 @@ PROMPT:
 Write a program and input two integers in main and pass them to default constructor of the class. Show the result of the additon of two numbers.
 
 ```
-class data{
+class Data{
     //class definition here
+    public:
+       Data(int, int);
+       int sum(); 
 };
 
 PROMPT:
