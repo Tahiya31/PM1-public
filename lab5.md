@@ -44,16 +44,18 @@ Student name: Jorge Ortiz
 Enter grade: 100
 Enter grade: 99
 Enter grade: -1
+
+Jorge Ortiz
 average: 99.5
 ```
 
 ## Problem 4 
-Perform addition operation on complex numbers using classes and objects. The program should ask for real and imaginary part of two complex numbers, and display the real and imaginary parts of their sum.  Feel free to use any c/c++ library to parse the input string (such as atof() or strtok()).
+Perform addition operation on complex numbers using classes and objects. The program should ask for real and imaginary part of at least 2 complex numbers, and display the real and imaginary parts of their sum.  Use -1 to stop inputting new numbers.  To parse the input, feel free to use any c/c++ string library functions to parse the input string (such as atof() or strtok()).
 
 ```
-first number: 5 + 5j
-
-second number: 10 + 10j
+Next number? 5 + 5j
+Next number? 10 + 10j
+Next number? -1
 
 sum: 15 + 15j
 ```
